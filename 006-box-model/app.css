@@ -16,3 +16,54 @@ img {
   #222
   #7BBADE
 */
+
+/*.a {
+  background-color: #FFED5D;
+  width: 500px;
+  height: 150px;
+}
+
+.b {
+  background-color: #FF7050;
+}
+
+.c {
+  background-color: #222;
+}
+
+.d {
+  border-color: #7BBADE;
+}*/
+
+/*.box-model {
+    margin: auto;
+    background-color: #7BBADE;
+    width: 340px;
+    height: 100px;
+    padding: 15px solid #FF7050;
+    border: 10px solid #FFED5D;
+    margin: 10px solid ;
+}*/
+
+.box-model {
+    width: 300px;
+    padding: 25px;
+    border: 25px;
+    margin: 25px;
+}
+
+.a {
+  background-color: #FFED5D;
+}
+
+.b {
+  background-color: #FF7050;
+}
+
+.c {
+  background-color: #222;
+}
+
+.d {
+  background-color: #7BBADE;
+}

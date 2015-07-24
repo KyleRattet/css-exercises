@@ -9,3 +9,23 @@ img {
 }
 
 /* Code Under This Line */
+
+.short {
+  height: 100px;
+}
+
+.tall {
+  height:200px;
+}
+
+.outside{
+  overflow: hidden;
+  position: relative;
+
+}
+
+.inside {
+  position: absolute;
+  height: 100%;
+}
+
