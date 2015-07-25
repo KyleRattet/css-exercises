@@ -11,6 +11,13 @@ img {
   width: 100px;
   height: 100px;
   margin-bottom: 20px;
+
+
 }
 
 /* Your Code Goes Under This Line */
+
+.box {
+  box-shadow: 1px 1px 8px 1px;
+}
+

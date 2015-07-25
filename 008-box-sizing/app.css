@@ -16,11 +16,16 @@ div {
   background: white;
   color: #222;
   padding: 20px;
+
 }
+
+
+
+/* Your Code Goes Under This Line */
+
 
 .column {
   float: left;
   width: 25%;
+  padding: 0px;
 }
-
-/* Your Code Goes Under This Line */

@@ -16,18 +16,18 @@ body {
 }
 
 .sidebar {
-  width: 300px;
+  width: 31.25%;
   float: left;
 }
 
 .posts {
-  width: 660px;
+  width: 68.75%;
   float: left;
   line-height: 1.5;
 }
 
 .post {
-  padding: 20px;
+  padding: .0208%;
 }
 
 .post-title {
